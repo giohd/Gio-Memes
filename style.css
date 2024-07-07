@@ -1,0 +1,26 @@
+body
+{
+  background-color:black;
+  color:white;
+}
+.MemeBox
+{
+ text-align: center;
+ width:  750px;
+ height: 550px;
+ margin-left: 750px;
+ margin-top: 200px;
+ font-family:  'Libre Baskerville', serif;
+ border: 5px solid whitesmoke;
+ 
+}
+#image0
+{
+width: 30rem;
+border: 5px, solid white;
+}
+h1
+{
+ color: yellow;
+ text-transform: uppercase;
+}
